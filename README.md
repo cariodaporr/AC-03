@@ -1,5 +1,5 @@
 # ferramentas de controle de versão
 * mercurial
-* github 
+* git 
 * subversion
 * CVS
